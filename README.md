@@ -30,3 +30,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 4. Aracı başlatın:
    ```bash
    python sibertimpro.py
+
+## 📄 Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır.
